@@ -1,2 +1,2 @@
 # eslintrc
-$description
+eslintrc para ser estendido em seus projetos
