@@ -1415,8 +1415,8 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
     delayed-stream "~1.0.0"
 
 commitlintconfig@deMGoncalves/commitlintconfig:
-  version "0.0.0"
-  resolved "https://codeload.github.com/deMGoncalves/commitlintconfig/tar.gz/abd23f15d97cade3f134969b01ba85e214d37fbd"
+  version "1.0.0"
+  resolved "https://codeload.github.com/deMGoncalves/commitlintconfig/tar.gz/6438879225938811998ae31affc8f071e079e6d7"
 
 compare-func@^2.0.0:
   version "2.0.0"
@@ -2092,10 +2092,6 @@ extsprintf@^1.2.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
   integrity sha1-4mifjzVvrWLMplo6kcXfX5VRaS8=
-
-f@deMGoncalves/f:
-  version "1.0.0"
-  resolved "https://codeload.github.com/deMGoncalves/f/tar.gz/01a47581886bb27d31928d79aeedbdda56c20d79"
 
 fast-deep-equal@^3.1.1:
   version "3.1.3"
