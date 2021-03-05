@@ -24,15 +24,7 @@ module.exports = {
     'jest/prefer-to-have-length': 'warn',
     'jest/valid-expect': 'error',
     'no-sequences': 'off',
-    'no-unused-expressions': [
-      'error',
-      {
-        allowShortCircuit: true,
-        allowTernary: true,
-        allowTaggedTemplates: true,
-        enforceForJSX: true
-      }
-    ],
+    'no-unused-expressions': 'off',
     'no-unused-vars': [
       'error',
       {
