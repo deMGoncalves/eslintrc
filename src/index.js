@@ -1,4 +1,7 @@
 module.exports = {
+  globals: {
+    __settings: 'readonly'
+  },
   env: {
     browser: true,
     es2021: true,
